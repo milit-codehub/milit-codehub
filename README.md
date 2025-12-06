@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Milit Srivastava . I am pursuing B.Tech at IIT (BHU) Varanasi.
+I am Milit Srivastava .<br> I am pursuing B.Tech at IIT (BHU) Varanasi.
 I'm currently a first year student.
 
 <!--
