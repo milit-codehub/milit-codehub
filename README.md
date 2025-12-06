@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Milit Srivastava . I am pursuing B.Tech at IIT (BHU) Varanasi.
 
 <!--
 **milit-codehub/milit-codehub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
