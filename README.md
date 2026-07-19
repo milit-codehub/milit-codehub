@@ -1,6 +1,8 @@
 ## Hi there 👋
 I am Milit Srivastava .<br> I am pursuing B.Tech at IIT (BHU) Varanasi.
-I'm currently a first year student.
+Sophomore in Chemical Engineering.
+I'm currently learning python.
+I'm currently working on a Music Separator project.
 
 <!--
 **milit-codehub/milit-codehub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
